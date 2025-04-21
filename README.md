@@ -1,6 +1,6 @@
 # Apresentação Jogo da Cobrinha
 
-O projeto é o Jogo da Cobrinha (Snake Game), desenvolvido para ilustrar muito bem os assuntos aprendidos no curso, como funções, estruturas de repetição, declaração de variáveis e muito mais. 
+O projeto é o Jogo da Cobrinha (Snake Game), desenvolvido para ilustrar os assuntos aprendidos no curso de IPC(Eng. Comp. UEA), como funções, estruturas de repetição, declaração de variáveis e muito mais. 
 
 Foram utilizadas duas bibliotecas cruciais para o funcionamento do jogo:
 
@@ -9,7 +9,7 @@ Foram utilizadas duas bibliotecas cruciais para o funcionamento do jogo:
 
 ## Descrição do Jogo
 
-O Jogo da Cobrinha é um jogo clássico onde o jogador controla uma cobra que se movimenta pela tela. O objetivo é comer a comida que aparece em posições aleatórias, o que faz a cobra crescer em tamanho. O jogo termina quando a cobra colide com as bordas da tela ou com ela mesma.
+O Jogo da Cobrinha é um clássico onde o jogador controla uma cobra que se movimenta pela tela. O objetivo é comer a comida que aparece em posições aleatórias, o que faz a cobra crescer em tamanho. O jogo termina quando a cobra colide com as bordas da tela ou com ela mesma.
 
 ### Funcionalidades
 
@@ -24,10 +24,6 @@ O Jogo da Cobrinha é um jogo clássico onde o jogador controla uma cobra que se
 - **Pygame**: Biblioteca usada para criar a interface gráfica do jogo.
 - **Random**: Biblioteca utilizada para gerar a posição aleatória da comida da cobra.
 
-Este projeto foi desenvolvido para aplicar os conceitos aprendidos no curso.
+---
 
-### Integrantes do Grupo
-
-- Gustavo Correa Alves
-- Igor Meireles de Lima Taveira
-- Julia de Brito Cohen
+Feito com 💻 por Julia Cohen
